@@ -22,7 +22,7 @@
  */
 
 interface DataSource {
-  id: number;
+  id: string;
   dataURL: string;
 }
 
